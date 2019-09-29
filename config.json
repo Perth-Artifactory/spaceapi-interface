@@ -1,0 +1,6 @@
+{
+   "mqtt_server" : "util",
+   "spaceapi_out" : "/var/www/space.artifactory.org.au/htdocs/spaceapi.json",
+   "spaceapi_temp" : "/home/spaceapi/spaceapi.json.tmp",
+   "spaceapi_template" : "/home/spaceapi/spaceapi.template.json"
+}
