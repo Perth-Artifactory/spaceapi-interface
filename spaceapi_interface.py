@@ -85,9 +85,9 @@ def main():
 
     global config
     config = read_config(args.config)
-    print(f"Config: {config}")
+    print("Config: {}".format(config))
 
-    client = mqtt.Client()
+    client = mqtt.Client("spaceapi_interface")
     client.on_connect = on_connect
     client.on_message = on_message
 
