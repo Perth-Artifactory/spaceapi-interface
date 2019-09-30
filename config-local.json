@@ -1,0 +1,6 @@
+{
+   "mqtt_server" : "localhost",
+   "spaceapi_out" : "E:\\CodeGit\\spaceapi-interface\\spaceapi.json",
+   "spaceapi_temp" : "E:\\CodeGit\\spaceapi-interface\\spaceapi.json.tmp",
+   "spaceapi_template" : "E:\\CodeGit\\spaceapi-interface\\spaceapi.template.json"
+}
